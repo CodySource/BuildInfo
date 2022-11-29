@@ -1,0 +1,14 @@
+{
+  "name": "com.codysource.buildinfo",
+  "version": "1.0.0",
+  "displayName": "Build Info",
+  "description": "This package provides a prefab which displays the build version and date of the application.",
+  "unity": "2020.3",
+  "unityRelease": "15f2",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "author": {
+    "name": "Cody Source"
+  }
+}
