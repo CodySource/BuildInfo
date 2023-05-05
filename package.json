@@ -1,8 +1,8 @@
 {
   "name": "com.codysource.buildinfo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Build Info",
-  "description": "This package provides a prefab which displays the build version and date of the application.",
+  "description": "This package provides a prefab which displays the build version and date of the application. Additionally, allows the developer to toggle between staging and live builds.",
   "unity": "2020.3",
   "unityRelease": "15f2",
   "dependencies": {
